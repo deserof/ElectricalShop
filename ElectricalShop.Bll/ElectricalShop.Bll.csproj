@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ElectricalShop.Common\ElectricalShop.Common.csproj" />
+    <ProjectReference Include="..\ElectricalShop.Dal\ElectricalShop.Dal.csproj" />
+  </ItemGroup>
+
+</Project>
